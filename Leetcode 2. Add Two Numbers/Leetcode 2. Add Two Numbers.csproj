@@ -2,7 +2,7 @@
 
     <PropertyGroup>
         <TargetFramework>net7.0</TargetFramework>
-        <RootNamespace>Leetcode_2._Add_Two_Numbers</RootNamespace>
+        <RootNamespace>LeetCode_2._Add_Two_Numbers</RootNamespace>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
 
