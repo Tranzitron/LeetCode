@@ -20,9 +20,8 @@ public class Solution
     private static bool HasRepeatingCharacter(string s)
     {
         var chars = new List<char>(s.Length);
-        for (var index = 0; index < s.Length; index++)
+        foreach (var charAtIndex in s)
         {
-            var charAtIndex = s[index];
             if (chars.Contains(charAtIndex)) return true;
 
             chars.Add(charAtIndex);
