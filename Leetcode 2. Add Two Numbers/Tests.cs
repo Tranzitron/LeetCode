@@ -1,6 +1,6 @@
 namespace Leetcode_2._Add_Two_Numbers;
 
-public class AddTwoNumbersTests
+public class Tests
 {
     private readonly Solution _solution = new();
 
