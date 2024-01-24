@@ -36,7 +36,18 @@ public class Tests
 
         Assert.Equal(expectedOutput, actualOutput);
     }
-    
+
+    [Fact]
+    public void TestCase74()
+    {
+        var str = "{[]}";
+
+        var actualOutput = _solution.IsValid(str);
+        var expectedOutput = true;
+
+        Assert.Equal(expectedOutput, actualOutput);
+    }
+
     [Fact]
     public void TestCase80()
     {
