@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode 1768. Merge String
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode 412. Fizz Buzz", "LeetCode 412. Fizz Buzz\LeetCode 412. Fizz Buzz.csproj", "{9ED0AB16-CBA7-4EC5-91BB-F0B5CAE7674F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode 66. Plus One", "LeetCode 66. Plus One\LeetCode 66. Plus One.csproj", "{977EC586-1AF5-418E-94EF-9EB68A9767EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{9ED0AB16-CBA7-4EC5-91BB-F0B5CAE7674F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9ED0AB16-CBA7-4EC5-91BB-F0B5CAE7674F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9ED0AB16-CBA7-4EC5-91BB-F0B5CAE7674F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{977EC586-1AF5-418E-94EF-9EB68A9767EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{977EC586-1AF5-418E-94EF-9EB68A9767EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{977EC586-1AF5-418E-94EF-9EB68A9767EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{977EC586-1AF5-418E-94EF-9EB68A9767EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -37,15 +37,4 @@ public class Tests
 
         Assert.Equal(expectedOutput, actualOutput);
     }
-
-    // [Fact]
-    // public void TestCase74()
-    // {
-    //     var n = 10;
-    //
-    //     var actualOutput = _solution.FizzBuzz(n);
-    //     var expectedOutput = new[] {"1","2","Fizz"};
-    //
-    //     Assert.Equal(expectedOutput, actualOutput);
-    // }
 }
