@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode 20. Valid Parenthe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode 1768. Merge Strings Alternately", "LeetCode 1768. Merge Strings Alternately\LeetCode 1768. Merge Strings Alternately.csproj", "{AA551F18-A27E-4372-BC6B-88899DDF9AC4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode 412. Fizz Buzz", "LeetCode 412. Fizz Buzz\LeetCode 412. Fizz Buzz.csproj", "{9ED0AB16-CBA7-4EC5-91BB-F0B5CAE7674F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{AA551F18-A27E-4372-BC6B-88899DDF9AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA551F18-A27E-4372-BC6B-88899DDF9AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA551F18-A27E-4372-BC6B-88899DDF9AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ED0AB16-CBA7-4EC5-91BB-F0B5CAE7674F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED0AB16-CBA7-4EC5-91BB-F0B5CAE7674F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED0AB16-CBA7-4EC5-91BB-F0B5CAE7674F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED0AB16-CBA7-4EC5-91BB-F0B5CAE7674F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
